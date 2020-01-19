@@ -13,22 +13,22 @@ These reports are to made using Python and Tableau.
 <hr>
 
 ## Age Vs Gender
-![StartStation](img/Age Vs Gender.png)
+![Age Vs Gender](img/Age Vs Gender.png)
 
 ## Month Wise Demographic Age
-![EndStation](img/Month Wise Demographic Age.png)
+![Month Wise Demographic Age](img/Month Wise Demographic Age.png)
 
 ## Peak Hours
-![EndStation](img/Peak Hours.png)
+![Peak Hours](img/Peak Hours.png)
 
 ## Month Wise Subscribers
-![PeakSummerHours](img/Month Wise Subscribers.png)
+![Month Wise Subscribers](img/Month Wise Subscribers.png)
 
-## citibike_startstation
-![PercentChangeCustomers](img/citibike_startstation.png)
+## Startstation Map
+![Startstation Map](img/citibike_startstation.png)
 
 ## End Station Map
-![PercentChangeSubscribers](img/End Station Map.png)
+![End Station Map](img/End Station Map.png)
 
 <hr>
 
